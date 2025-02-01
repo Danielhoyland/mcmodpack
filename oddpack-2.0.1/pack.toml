@@ -1,0 +1,13 @@
+name = "oddpack"
+author = "clone400"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "29c44b3a635ed080f7058689d641483e9b476af33d1ef073a937d42a7d7b8af9"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"
